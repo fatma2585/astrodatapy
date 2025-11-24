@@ -1,1 +1,2 @@
-This folder has the X-ray Luminosity function from different missions  
+This folder has the X-ray Luminosity function from different missions.
+Mag, Phi, Phi_err
