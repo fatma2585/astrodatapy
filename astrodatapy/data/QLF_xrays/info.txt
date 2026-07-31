@@ -1,2 +1,2 @@
 This folder has the X-ray Luminosity function from different missions.
-Mag, Phi, Phi_err
+Lx(ergs/s), Lx_err, Phi, Phi_err
